@@ -1,0 +1,7 @@
+{
+  "name": "situation/js_composer",
+  "description": "Copy of Visual Composer so we can use it in our composer architecture.",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0",
+  "require": {}
+}
